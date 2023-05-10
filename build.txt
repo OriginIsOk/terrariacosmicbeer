@@ -1,0 +1,3 @@
+displayName = Cosmic Beers
+author = OriginIsOk
+version = 1.0
